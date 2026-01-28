@@ -1,0 +1,22 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C3, C4, C6",0805,4,100nF,
+"C2, C7, C8",0805,3,1uF,
+C5,0805,1,10nF,
+"D1, D2",0603,2,Status LED,
+FB1,0603,1,BLM18AG601SN1D,BLM18AG601SN1D
+J1,SolderWirePad_1x01_SMD_1x2mm,1,C+,
+J2,SolderWirePad_1x01_SMD_1x2mm,1,C-,
+J3,U.FL_Molex_MCRF_73412-0110_Vertical,1,U_FL-R-SMT-1_10_,U.FL-R-SMT-1(10)
+J4,Hirose_DF13-06P-1.25DS_1x06_P1.25mm_Horizontal,1,To FC,
+J6,SolderWirePad_1x01_SMD_1x2mm,1,DRDY,
+L1,0805,1,10nH,
+R1,0805,1,10k,
+"R2, R3",0805,2,47,
+R4,0805,1,100,
+"R5, R8",0805,2,1K,
+"R6, R7",0805,2,0,
+TP1,TestPoint_Pad_1.0x1.0mm,1,SAFEBOOT,
+TP2,TestPoint_Pad_1.0x1.0mm,1,TimePulse,
+U1,ublox_NEO,1,NEO-M8N,
+U2,LGA-12_2x2mm_P0.5mm,1,LIS3MDL,
+U3,SOT-23-5,1,TLV75733PDBV,
