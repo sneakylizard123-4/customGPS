@@ -3,6 +3,7 @@ A custom GPS and compass board for 5" drones.
 
 ## How to use
 connect to power. GPS uses UART and compass uses I2C.
+solder capacitor to "cap here"
 
 # Pictures
 blender render:
@@ -13,4 +14,5 @@ PCB:
 
 Schematic:
 ![PXL_20260128_012922035](https://github.com/user-attachments/assets/696a025d-2c47-4ae5-bdf3-7fac641e5833)
+
 
